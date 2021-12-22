@@ -1,0 +1,55 @@
+#  En este fichero estan los alias para git
+
+alias g='git'
+
+alias ginit='g init'
+
+alias ga='g add'
+alias gaa='g add .'
+# alias gadda='g add .'
+
+alias gs='g status'
+# alias gstatus='g status'
+alias gss='g status -sb'
+
+alias gca='g commit --amend'
+# alias gcommit='g commit'
+alias gcm='g commit -m $2'
+alias gcma='g commit -am $2'
+
+alias gl='g log'
+alias gls='g log --stat'
+alias glo='g log --oneline'
+alias gtree='glo --all --graph --decorate'
+alias gsh='g show'
+alias gdf='g diff'
+
+alias gch='g checkout'
+alias gchm='g checkout main'
+alias gchb='g checkout -b $2'
+
+alias gsw='g switch $2'
+alias gswc='g switch -c $2'
+alias gb='g branch'
+
+alias gm='g merge'
+# alias gmm='g merge $2 -m $3'
+alias gma='g merge --abort'
+
+alias gr='g remote'
+alias pull='g pull'
+alias pullo='g pull origin'
+alias pulla='g pull --allow-unrelated-histories'
+alias push='g push'
+alias pusho='g push origin'
+alias clone='g clone'
+
+alias gtag='g tag'
+alias gtags='g show-ref --tags'
+
+alias gst='git stash'
+alias gstl='git stash list'
+
+alias greset='git reset --hard'
+
+alias ggrep='git grep'

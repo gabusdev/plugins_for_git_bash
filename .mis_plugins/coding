@@ -1,0 +1,4 @@
+# Este fichero se encarga de alias en el entorno de programacion
+
+### VS Code ###
+alias codecda='cda && code .'

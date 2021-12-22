@@ -1,0 +1,8 @@
+# En este fichero van a estar funciones 
+
+alias keyshorts='echo -e "Control-A\tGo to beginning of line.\n
+Control-E\tGo to the end of the line.\n
+Alt-B\t\tGo back one word.\n
+Alt-F\t\tGo forward on word.\n
+Alt-Backspace\tDelete backward one word.\n
+Alt-D\t\tDelete forward one word."'

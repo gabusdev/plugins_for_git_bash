@@ -1,0 +1,14 @@
+# Este fichero se encarga de cargar los plugins en el orden correcto
+
+
+# Comentar cualquiera que no se desee usar
+source ./configuracion
+source ./funciones
+source ./git_commands
+source ./comunes
+source ./coding
+# source ~/.mis_git_plugins/.configuracion
+# source ~/.mis_git_plugins/.funciones
+# source ~/.mis_git_plugins/.git_commands
+# source ~/.mis_git_plugins/.comunes
+# source ~/.mis_git_plugins/.coding
