@@ -11,8 +11,7 @@ alias lla='ls -la'
 alias l=ls
 
 ### Comandos para moverme ###
-# dia_dir=~/.mis_plugins/vars/dia # Path a la variable dia
-dia_dir=vars/dia # Path a la variable dia
+dia_dir=~/.mis_plugins/vars/dia # Path a la variable dia
 source $dia_dir # Para obtener la variable del 'directorio importante anterior' guardada
 alias sda='dia=$(pwd) && echo dia=$(pwd) > $dia_dir'
 alias cdh='cd ~/'

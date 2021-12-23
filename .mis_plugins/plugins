@@ -2,13 +2,8 @@
 
 
 # Comentar cualquiera que no se desee usar
-source ./configuracion
-source ./funciones
-source ./git_commands
-source ./comunes
-source ./coding
-# source ~/.mis_git_plugins/.configuracion
-# source ~/.mis_git_plugins/.funciones
-# source ~/.mis_git_plugins/.git_commands
-# source ~/.mis_git_plugins/.comunes
-# source ~/.mis_git_plugins/.coding
+source ~/.mis_plugins/configuracion
+source ~/.mis_plugins/funciones
+source ~/.mis_plugins/git_commands
+source ~/.mis_plugins/comunes
+source ~/.mis_plugins/coding
