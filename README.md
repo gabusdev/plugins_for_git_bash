@@ -3,9 +3,8 @@
 ## Este repo es para tener mis configuraciones de Git Bash en Windows
 
 ### Instrucciones:
-Clonar ese repo en la Carpeta de Usuario (C:/Users/<Tu Usuario>/) y sobreescribir   
+Clonar este repo en cualquier carpeta y copiar todos los ficheros a C:/Users/***Tu Usuario***/ y sobreescribir:
 
-`git clone https://github.com/gabusdev/plugins_for_git_bash.git ~/`
 
 ## Que hace este repo:
 - Modifica la apariencia de la terminal
